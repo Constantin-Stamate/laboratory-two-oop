@@ -3,7 +3,6 @@ package entity;
 import java.math.BigDecimal;
 
 public class Credit extends Account {
-
     private BigDecimal credit;
 
     public Credit(String id, BigDecimal credit) {

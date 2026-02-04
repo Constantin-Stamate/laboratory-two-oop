@@ -6,7 +6,6 @@ import repository.AccountRepository;
 import java.math.BigDecimal;
 
 public class CheckingService implements AccountService {
-
     AccountRepository accountRepository = new AccountRepository();
 
     @Override

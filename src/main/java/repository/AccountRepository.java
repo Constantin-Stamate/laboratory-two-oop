@@ -6,7 +6,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class AccountRepository {
-
     private Map<String, Account> store = new HashMap<String, Account>();
 
     public void createAccount(Account account) {

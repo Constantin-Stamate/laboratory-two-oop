@@ -1,7 +1,6 @@
 package entity;
 
 public abstract class Account {
-
     private String id;
 
     public Account(String id) {
@@ -18,4 +17,3 @@ public abstract class Account {
 
     public abstract Account clone();
 }
-

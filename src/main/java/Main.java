@@ -14,7 +14,6 @@ import service.CheckingService;
 import service.CreditService;
 
 public class Main {
-
     static Path[] paths = new Path[]{
             Paths.get("src/main/resources/accounts.txt"),
             Paths.get("src/main/resources/transactions.txt")

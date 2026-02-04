@@ -2,13 +2,9 @@
 
 This Java application simulates a simple **Banking System**, allowing basic operations on checking and credit accounts. It demonstrates core concepts of **Object-Oriented Programming (OOP)** such as abstraction, encapsulation, inheritance, and modular design.
 
----
-
 ## Project Context
 
 This project was developed as part of the **Object-Oriented Programming** course at the **Technical University of Moldova (UTM)**. It involves working with real-world concepts like accounts and transactions, reading input data from files, and implementing service-based logic.
-
----
 
 ## Structure
 
@@ -42,8 +38,6 @@ src/
     └── transactions.txt       # Input data for transactions
 ```
 
----
-
 ## Features Implemented
 
 - Load accounts and transactions from files
@@ -53,8 +47,6 @@ src/
     - Credit accounts
 - Process transactions using business logic
 - Display final account balances
-
----
 
 ## How to Run the Project
 
@@ -88,15 +80,11 @@ src/
 
 > ⚠️ Make sure that `accounts.txt` and `transactions.txt` are located in the `resources/` folder and that your file reading logic points to the correct path.
 
----
-
 ## Useful Links
 
 - [Java Official Documentation](https://docs.oracle.com/en/java/javase/)
 - [OOP Concepts in Java](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/)
 - [Java I/O File Reading](https://docs.oracle.com/javase/tutorial/essential/io/file.html)
-
----
 
 ## Author
 
@@ -104,4 +92,3 @@ This project was developed by **Constantin Stamate** as part of the **Object-Ori
 
 - GitHub: [Constantin-Stamate](https://github.com/Constantin-Stamate)
 - Email: [constantinstamate.r@gmail.com](mailto:constantinstamate.r@gmail.com)
-
